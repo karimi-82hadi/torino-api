@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "b065231c-3fef-4ae7-b232-4a449da6ee7d",
+    "userId": "844ec726-fe1f-400e-ae99-d5f392f77b78",
+    "amount": 105000,
+    "type": "Purchase",
+    "createdAt": "2024-12-28T19:45:13.151Z"
+  },
+  {
+    "id": "c361fa59-3fd5-4cfa-a0e6-c8d1ae14b96e",
+    "userId": "844ec726-fe1f-400e-ae99-d5f392f77b78",
+    "amount": 105000,
+    "type": "Purchase",
+    "createdAt": "2024-12-28T20:18:27.769Z"
+  }
+]
